@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salon", "salon\salon.csproj", "{647E6844-8264-42F4-B002-2CF84070D131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proiect_maria", "proiect_maria\proiect_maria.csproj", "{53DD5A5A-C948-4BC7-8A9A-31F685F48F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647E6844-8264-42F4-B002-2CF84070D131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647E6844-8264-42F4-B002-2CF84070D131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647E6844-8264-42F4-B002-2CF84070D131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647E6844-8264-42F4-B002-2CF84070D131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DD5A5A-C948-4BC7-8A9A-31F685F48F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DD5A5A-C948-4BC7-8A9A-31F685F48F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DD5A5A-C948-4BC7-8A9A-31F685F48F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DD5A5A-C948-4BC7-8A9A-31F685F48F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E536EF-ACA1-4982-A77E-D2D844F8AA79}
+	EndGlobalSection
+EndGlobal
